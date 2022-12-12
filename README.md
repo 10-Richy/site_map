@@ -1,6 +1,8 @@
 # site_map
 <선정 주제> 민간 공사장 현황 지도: 서울시 공사 현황 데이터를 이용하여 
 
+10조 Richy 웹사이트 작업 최종 결과: https://kch0310.github.io/Richy-/website.html
+
 *데이터 수집 및 전처리 사이트 출처
 공공데이터포털
 
